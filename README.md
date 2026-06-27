@@ -16,7 +16,7 @@ Provides an executive summary of Spotify streaming performance with KPIs, top ar
 
 ## 2. Artists Dashboard
 
-![Artists Dashboard](images/artists.png)
+![Artists Dashboard](images/artist.png)
 
 Analyzes artist popularity, stream growth, album performance, and track distribution.
 
