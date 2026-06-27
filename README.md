@@ -161,16 +161,4 @@ The dashboard enables organizations to:
 
 ---
 
-# 👨‍💻 Author
 
-**Your Name**
-
-Power BI | Data Analytics | Business Intelligence
-
-LinkedIn: https://linkedin.com/in/your-profile
-
-GitHub: https://github.com/your-username
-
----
-
-## ⭐ If you found this project useful, consider giving it a star!
